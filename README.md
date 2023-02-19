@@ -22,7 +22,7 @@ Run the script `wordFinder.py` using the following command line arguments.
 **WORD | PHRASE**
 >The said phrase or the word you want to search for in the subtitles.
 >
->**Make sure** to put parenthesis ("") around the word or phrase.
+>**Make sure** to put quotation marks "" around the word or phrase.
 
 **YT CHANNEL ID**
 > The channel ID of the YouTube channel you want to search in.
